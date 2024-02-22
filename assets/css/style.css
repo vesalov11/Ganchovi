@@ -9,6 +9,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
 body {
   font-family: "Poppins", sans-serif;
   color: #444444;
@@ -174,6 +178,8 @@ h6 {
 /**
 * Desktop Navigation 
 */
+
+
 .navbar {
   padding: 0;
 }
@@ -272,6 +278,14 @@ h6 {
   left: 100%;
   visibility: visible;
 }
+
+
+
+
+
+
+
+
 
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
