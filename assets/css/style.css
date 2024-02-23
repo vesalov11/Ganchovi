@@ -459,7 +459,7 @@ h6 {
 }
 
 #hero p {
-  width: 80%;
+  width: 60%;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
   color: #fff;
@@ -793,7 +793,7 @@ section {
 
   .about .content,
   .about .accordion-list {
-    padding-left: 0;
+    padding-left: 15px;
     padding-right: 0;
   }
 }
